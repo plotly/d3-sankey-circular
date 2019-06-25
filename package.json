@@ -1,5 +1,5 @@
 {
-  "name": "d3-sankey-circular",
+  "name": "@plotly/d3-sankey-circular",
   "version": "0.33.0",
   "description": "D3 sankey with circular links",
   "author": "Tom Shanley",
