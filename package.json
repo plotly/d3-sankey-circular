@@ -59,7 +59,7 @@
     "d3"
   ],
   "bugs": {
-    "url": "https://github.com/plotly/d3-sankey-circular/issues"
+    "url": "https://github.com/tomshanley/d3-sankey-circular/issues"
   },
   "homepage": "https://github.com/plotly/d3-sankey-circular#readme"
 }
